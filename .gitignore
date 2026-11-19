@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+drf_react_product_env/
+
+# Django
+db.sqlite3
+.env
+
+# React
+node_modules/
+dist/
+.env.local
+
+# IDE
+.vscode/
+.idea/
